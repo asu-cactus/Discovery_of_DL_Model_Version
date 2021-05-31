@@ -1,0 +1,6 @@
+pandas
+nltk
+scipy
+numpy
+tqdm
+tensorflow
