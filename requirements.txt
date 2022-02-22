@@ -1,6 +1,6 @@
-pandas
-nltk
-scipy
-numpy
-tqdm
-tensorflow
+pandas==1.4.0
+nltk==3.6.2
+tensorflow==2.7.0
+scipy==1.6.2
+tqdm==4.51.0
+numpy==1.22.2
